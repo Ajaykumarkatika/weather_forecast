@@ -1,5 +1,5 @@
 # weather_forecast
-Python script to visualize weather forecasts using OpenWeatherMap API.
+Task 1:Python script to visualize weather forecasts using OpenWeatherMap API.
 
 # 🌦️ CodTech Internship Task 1 – Weather Forecast Visualization using OpenWeatherMap API
 
